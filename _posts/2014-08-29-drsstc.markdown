@@ -1,0 +1,58 @@
+---
+layout: single
+title:  "Tesla Coil Project"
+category: "Hardware Engineering"
+tags:
+  - DIY
+  - Hardware
+  - Power Electronics
+---
+This is a badass high voltage equipment, I spent my whole winter break working on it when I was in undergraduate shool.
+
+The equipment is called DRSSTC([Dual Resonant Solid State Tesla Coil](http://wiki.4hv.org/index.php/Dual_Resonant_Solid_State_Tesla_Coil)), is a recreation of the invention of Nikola Tesla using morden power technology.
+
+That device can produce amazing sparks, up to 15.748 inches. And it can even play musics! For it works under some kind of modulation to prevent the IGBT half-bridge from becomming too hot, and if we change the modulation frequence according to musics, it can sing the song with its roaring sparks.
+
+![](/assets/images/drsstc/dr3.JPG)
+![](/assets/images/drsstc/dr5.PNG)<br />
+![](/assets/images/drsstc/dr1.JPG)
+![](/assets/images/drsstc/dr2.JPG)<br />
+
+Here are some interesting videos demonstrating how it work, hope every one can enjoy it!<br />
+**Some amazing experiments of sparks.**\\
+<span style="color:red; font-family:Georgia; font-size:1.5em;">Click to watch videos</span>\\
+<a 
+href="http://www.youtube.com/watch?feature=player_embedded&v=srdLlGGoqSo
+" target="_blank"><img src="http://img.youtube.com/vi/srdLlGGoqSo/0.jpg" 
+alt="Click the image and enjoy the video" width="200"  border="1" /></a>
+<a 
+href="http://www.youtube.com/watch?feature=player_embedded&v=Z74Uf8SXwbA
+" target="_blank"><img src="http://img.youtube.com/vi/Z74Uf8SXwbA/0.jpg" 
+alt="Click the image and enjoy the video" width="200" border="1" /></a> 
+<a 
+href="http://www.youtube.com/watch?feature=player_embedded&v=kr9DGF-AP0g
+" target="_blank"><img src="http://img.youtube.com/vi/kr9DGF-AP0g/0.jpg" 
+alt="Click the image and enjoy the video" width="200" border="1" /></a> 
+<br />
+**Here comes the most amazing part!  Have you ever seen a flashing lightning singing?**<br />
+<span style="color:red; font-family:Georgia; font-size:1.5em;">Circus</span>\\
+<a 
+href="http://www.youtube.com/watch?feature=player_embedded&v=HeuxSLtNAv4
+" target="_blank"><img src="http://img.youtube.com/vi/HeuxSLtNAv4/0.jpg" 
+alt="Click the image and enjoy the video" width="200" border="1" /></a> <br />
+<span style="color:red; font-family:Georgia; font-size:1.5em;">Cirno</span>\\
+<a 
+href="http://www.youtube.com/watch?feature=player_embedded&v=4nm62BApUso
+" target="_blank"><img src="http://img.youtube.com/vi/4nm62BApUso/0.jpg" 
+alt="Click the image and enjoy the video" width="200" border="1" /></a> <br />
+<span style="color:red; font-family:Georgia; font-size:1.5em;">Canon</span>\\
+<a 
+href="http://www.youtube.com/watch?feature=player_embedded&v=0oYHgcoqInc
+" target="_blank"><img src="http://img.youtube.com/vi/0oYHgcoqInc/0.jpg" 
+alt="Click the image and enjoy the video" width="200" border="1" /></a> <br />
+<span style="color:red; font-family:Georgia; font-size:1.5em;">Senbonzakura </span>\\
+<a 
+href="http://www.youtube.com/watch?feature=player_embedded&v=_HLVxnnJubM
+" target="_blank"><img src="http://img.youtube.com/vi/_HLVxnnJubM/0.jpg" 
+alt="Click the image and enjoy the video" width="200" border="1" /></a> <br />
+
