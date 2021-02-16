@@ -1,11 +1,13 @@
 ---
 layout: single
-title:  "Some Drawings"
+title:  "Paintings"
 category: Life
 tags:
   - ART
   - DIY
 ---
+
+Some of my paintings, I will try to upate constantly.
 
 ---
 ### Dead Pool
